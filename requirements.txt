@@ -1,0 +1,5 @@
+pinecone
+time
+openai
+python-dotenv
+langchain
